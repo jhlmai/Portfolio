@@ -3,7 +3,8 @@
 
 ## Preview
 
-[![Grayscale Preview](https://startbootstrap.com/assets/img/templates/grayscale.jpg)](https://blackrockdigital.github.io/startbootstrap-grayscale/)
+[![Grayscale Preview](![alt text](https://raw.githubusercontent.com/jhlmai/Portfolio/img/Portfolio-preview.png)
+)](https://blackrockdigital.github.io/startbootstrap-grayscale/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
 
