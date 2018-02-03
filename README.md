@@ -1,4 +1,4 @@
-# [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
+## John Mai's Portfolio Page
 
 [Grayscale](https://jhlmai.github.io/Portfolio/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
