@@ -2,8 +2,9 @@
 
 
 ## Preview
+![ScreenShot](/img/Portfolio-preview.png)
 
-[![Grayscale Preview](![alt text](/img/Portfolio-preview.png)
+(![alt text](/img/Portfolio-preview.png)
 
 **[View Live Preview](https://jhlmai.github.io/Portfolio/)**
 
